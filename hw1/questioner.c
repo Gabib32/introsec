@@ -47,7 +47,7 @@ int main() {
 	} else if (numGuessed < numActual) {
 		printf("TOO LOW\n");
 	} else {
-		printf("CORRECT\n");
+		printf("SUCCESS\n");
 	}
 
 	return 0;
